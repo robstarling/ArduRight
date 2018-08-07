@@ -5,7 +5,7 @@ This is a library for observing and decoding the data received by a wireless tem
 Context/background:
 
 * https://www.troublefreepool.com/threads/112189-Automation-intercepting-data-from-Acu-Rite-wireless-sensors
-* https://electronics.stackexchange.com/questions/145714/what-encoding-is-used-in-this-signal/257112#257112
+* https://electronics.stackexchange.com/questions/145714/what-encoding-is-used-in-this-signal/257112
 * https://reverseengineering.stackexchange.com/questions/12048/what-is-contained-in-this-transmission-rf-pool-temperature-sensor-base-unit-re/13593#13593
 
 ## License
